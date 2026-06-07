@@ -1,0 +1,3 @@
+outputs/dataset_pouso.parquet
+__pycache__/
+*.pyc
